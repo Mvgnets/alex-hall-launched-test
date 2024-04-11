@@ -54,7 +54,7 @@ export const UserGrid: React.FC<IDrawerListProps> = ({ data, OpenUserDetails, lo
             initialState={{
                 pagination: {
                     paginationModel: {
-                        pageSize: 5,
+                        pageSize: 10,
                     },
                 },
             }}
